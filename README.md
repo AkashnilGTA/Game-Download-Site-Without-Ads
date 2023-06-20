@@ -1,4 +1,4 @@
-# Public Website and Support Server!
+# Support Server!
 https://discord.gg/jGEPhDtqaY
 # Information 🔥
 First of all, thanks for visiting my website! It took a long time to create it! You can use my public version of this website or fork this repo and edit it for whatever you need! This website doesn't have any pop ups. All sources are free and without ads (we also have 1fichier).
