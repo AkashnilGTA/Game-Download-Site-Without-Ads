@@ -36,3 +36,23 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 * Tomb Raider 2013
 
 <details>
+
+## SUPPORT ME AND AKASHNIL'S COMMUNITY
+
+> You can always support me by using one of my websites codes!
+
+**__My Github Scripts:__**
+> 
+> 🔗 Portfolio: https://github.com/AkashnilGTA/Portfolio
+> 🔗 Bot-Dashboard: https://github.com/AkashnilGTA/Bot-Dashboard
+> 🔗 My Bot-Dashboard: https://github.com/AkashnilGTA/UtilityBot
+> 🔗 Clock (HMS): https://github.com/AkashnilGTA/Clock-Website
+
+# Credits
+
+> If you consider using this Bot, make sure to credit me!
+> Example: `Website created by Akashnil but modified by [modifier/your Name](https://discord.gg/)`
+
+# Links
+
+
