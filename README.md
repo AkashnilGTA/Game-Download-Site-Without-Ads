@@ -1,3 +1,38 @@
 # Public Website and Support Server!
-<iframe src="https://canary.discord.com/widget?id=1103294223509356627&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-The way of free downloads without ads or popups. (under development)
+https://discord.gg/jGEPhDtqaY
+# Information 🔥
+First of all, thanks for visiting my website! It took a long time to create it! You can use my public version of this website or fork this repo and edit it for whatever you need! This website doesn't have any pop ups. All sources are free and without ads (we also have 1fichier).
+# List of Games 🎮
+
+<details>
+  <summary>Click to expand</summary>
+* GTA 5
+* GTA San Andreas
+* Red Dead Redemption II
+* Roblox (for faster download)
+* Minecraft
+* Cyberpunk 2077
+* GTA Vice City
+* GTA III
+* GTA Trilogy
+* Alien Shooter
+* Alien Shooter 2: The Legend
+* Alien Shooter 2
+* Age Of Empires II
+* Battlefield 2: Bad Company
+* Call Of Duty: Black Ops 1
+* Crysis 1 
+* Fallout New Vegas (Part 1 & Part 2)
+* Half-Life 2
+* Hitman Contracts 3
+* Mafia II
+* Mirror Edge
+* Red Alert 3
+* Sniper Elite 3
+* Far Cry 4
+* Freedom Fighters
+* Hitman Absolution 
+* The Forest
+* Tomb Raider 2013
+
+<details>
