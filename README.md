@@ -35,7 +35,6 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 * The Forest
 * Tomb Raider 2013
 
-<details>
 
 ## SUPPORT ME AND AKASHNIL'S COMMUNITY
 
