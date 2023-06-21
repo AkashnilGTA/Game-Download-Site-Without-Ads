@@ -48,6 +48,7 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 > 4. Your website is ready to go (Note: You have to credit me before finishing your script.)
 
 </details>
+
 ## SUPPORT ME AND AKASHNIL'S COMMUNITY
 
 > You can always support me by using one of my websites codes!
