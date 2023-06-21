@@ -83,15 +83,6 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 <details>
   <summary>Click to expand</summary>
  
-* World Clock (Open Script on Github): https://clockhms.netlify.app/
-* My Portfolio (Open Script on Github): https://portfolio-akashnil.netlify.app/
-* My Bot's Website (Open Script on Github): https://utilitybot.netlify.app/
-* V2: My Bot's Website (Open Script on Github): https://botdash.netlify.app/ 
-* Discord Server: https://discord.gg/h5xdQva9hK
-* Old Server: https://discord.gg/hqD3XtGWWV
-
-### 🔗  Useful Links:
-
 * Emojis:  https://getemoji.com/
 * Emojis2:  https://emojipedia.org/
 * Symbols:  https://coolsymbols.com/
