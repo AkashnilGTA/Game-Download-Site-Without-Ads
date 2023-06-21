@@ -46,6 +46,8 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 > 2. Fork my [Repl 1 & 2 which is the latest 2 repls in my profile.](replit.com/@Akashnil)
 > 3. Change whatever you want in index.html.
 > 4. Your website is ready to go (Note: You have to credit me before finishing your script.)
+
+</details>
 ## SUPPORT ME AND AKASHNIL'S COMMUNITY
 
 > You can always support me by using one of my websites codes!
