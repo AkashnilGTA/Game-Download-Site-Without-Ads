@@ -56,10 +56,10 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 
 **__My Github Scripts:__**
 
-> 🔗 Portfolio: https://github.com/AkashnilGTA/Portfolio
-> 🔗 Bot-Dashboard: https://github.com/AkashnilGTA/Bot-Dashboard
-> 🔗 My Bot-Dashboard: https://github.com/AkashnilGTA/UtilityBot
-> 🔗 Clock (HMS): https://github.com/AkashnilGTA/Clock-Website
+* 🔗 Portfolio: https://github.com/AkashnilGTA/Portfolio
+* 🔗 Bot-Dashboard: https://github.com/AkashnilGTA/Bot-Dashboard
+* 🔗 My Bot-Dashboard: https://github.com/AkashnilGTA/UtilityBot
+* 🔗 Clock (HMS): https://github.com/AkashnilGTA/Clock-Website
 
 # Credits
 
