@@ -91,16 +91,7 @@ https://game-download-site1.netlify.app/
       Old Server: https://discord.gg/hqD3XtGWWV
 
 ### 🔗  Useful Links:
- 
- World Clock (Open Script on Github): https://clockhms.netlify.app/
-:Approved:   My Portfolio (Open Script on Github): https://portfolio-akashnil.netlify.app/
-:Approved:   My Bot's Website (Open Script on Github): https://utilitybot.netlify.app/
-:Approved:   V2: My Bot's Website (Open Script on Github): https://botdash.netlify.app/ 
-:Approved:  Discord Server: https://discord.gg/h5xdQva9hK
-:Approved:  Old Server: https://discord.gg/hqD3XtGWWV
-
-🔗  Useful Links:
-:Approved:  Emojis:  https://getemoji.com/
+ Emojis:  https://getemoji.com/
 :Approved:  Emojis2:  https://emojipedia.org/
 :Approved:  Symbols:  https://coolsymbols.com/
 :Approved:  Cool Avatar Maker:  https://discord-avatar-maker.app/
@@ -109,5 +100,8 @@ https://game-download-site1.netlify.app/
 :Approved:  Make Cool Designs:  https://canvas.com/
 :Approved:  Make Time Stamps:  https://hammertime.cyou/
 
-      If you need an easy TimeStamp Maker, then use [this](https://discordtimestamp.com/).
+
+ If you need an easy TimeStamp Maker, then use [this](https://discordtimestamp.com/).
+
+
 </details>
