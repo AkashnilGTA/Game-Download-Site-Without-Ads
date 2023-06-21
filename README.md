@@ -91,11 +91,11 @@ https://game-download-site1.netlify.app/
       Old Server: https://discord.gg/hqD3XtGWWV
 
 # 🔗  Useful Links:
-      Emojis:  https://getemoji.com/
-      Emojis2:  https://emojipedia.org/
-      Symbols:  https://coolsymbols.com/
-      Cool Avatar Maker:  https://discord-avatar-maker.app/
-      Cool Translator: https://deepl.com/
+ Emojis:  https://getemoji.com/
+ Emojis2:  https://emojipedia.org/
+ Symbols:  https://coolsymbols.com/
+ Cool Avatar Maker:  https://discord-avatar-maker.app/
+ Cool Translator: https://deepl.com/
       Discord Active Developer:  https://discord.com/developers/active-developer
       Make Cool Designs:  https://canvas.com/
       Make Time Stamps:  https://hammertime.cyou/
