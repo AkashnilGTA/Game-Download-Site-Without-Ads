@@ -1,3 +1,4 @@
+(Original credits to Frazix)
 # Support Server!
 <a href="https://discord.gg/jGEPhDtqaY"><img src="https://discord.com/api/guilds/1103294223509356627/widget.png?style=banner2"></a>
 # Information 🔥
@@ -44,9 +45,9 @@ First of all, thanks for visiting my website! It took a long time to create it! 
   <summary>Click to expand</summary>
 
 > 1. Go to [Replit](replit.com) and sign up/login there.
-> 2. Fork my [Repl 1 & 2 which is the latest 2 repls in my profile.](replit.com/@Akashnil)
+> 2. Fork my [Repl 1 & 2 which is the latest 2 repls in my profile.](replit.com/@Akashnil) (Or get Repl 1 [here.](https://replit.com/@Akashnil/Download-Site?v=1)) [Repl 2](https://replit.com/@Akashnil/Download-Site?v=1)
 > 3. Change whatever you want in index.html.
-> 4. Your website is ready to go (Note: You have to credit me before finishing your script.)
+> 4. Your website is ready to go for useful options. (Note: You have to credit me before finishing your script.)
 
 </details>
 
