@@ -6,8 +6,8 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 
 <details>
   <summary>Click to expand</summary>
-* GTA 5
 
+* GTA 5
 * GTA San Andreas
 * Red Dead Redemption II
 * Roblox (for faster download)
