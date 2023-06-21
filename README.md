@@ -50,7 +50,7 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 
 # Credits
 
-> If you consider using this Bot, make sure to credit me!
+> If you consider using this Website, make sure to credit me!
 > Example: `Website created by Akashnil but modified by [modifier/your Name](https://discord.gg/)`
 
 # Links
@@ -63,4 +63,4 @@ https://download-site-1.akashnil.repl.co
 # Links (RAW)
 
 https://game-download-website.netlify.app/
- 
+https://game-download-site1.netlify.app/
