@@ -47,7 +47,7 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 > 1. Go to [Replit](replit.com) and sign up/login there.
 > 2. Fork my [Repl 1 & 2 which is the latest 2 repls in my profile.](replit.com/@Akashnil) (Or get Repl 1 [here.](https://replit.com/@Akashnil/Download-Site?v=1)) [Repl 2](https://replit.com/@Akashnil/Download-Site?v=1)
 > 3. Change whatever you want in index.html.
-> 4. Your website is ready to go for useful options. (Note: You have to credit me before finishing your script.)
+> 4. Your website is ready to go for useful options. (Note: You have to credit me or Frazix before finishing your script.)
 
 </details>
 
