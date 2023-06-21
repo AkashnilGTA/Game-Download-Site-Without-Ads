@@ -1,4 +1,4 @@
-[Original credits to Frazix]([Original credits to Frazix](https://www.youtube.com/@CWFrazix))
+([Original credits to Frazix]((https://www.youtube.com/@CWFrazix))
 # Support Server!
 <a href="https://discord.gg/jGEPhDtqaY"><img src="https://discord.com/api/guilds/1103294223509356627/widget.png?style=banner2"></a>
 # Information 🔥
