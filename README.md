@@ -82,8 +82,7 @@ https://game-download-site1.netlify.app/
 
 <details>
   <summary>Click to expand</summary>
- :Approved: 
-
+ 
    World Clock (Open Script on Github): https://clockhms.netlify.app/
    My Portfolio (Open Script on Github): https://portfolio-akashnil.netlify.app/
    My Bot's Website (Open Script on Github): https://utilitybot.netlify.app/
