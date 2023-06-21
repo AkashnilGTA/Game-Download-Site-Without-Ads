@@ -83,22 +83,23 @@ https://game-download-site1.netlify.app/
 <details>
   <summary>Click to expand</summary>
  
-      World Clock (Open Script on Github): https://clockhms.netlify.app/
-      My Portfolio (Open Script on Github): https://portfolio-akashnil.netlify.app/
-      My Bot's Website (Open Script on Github): https://utilitybot.netlify.app/
-      V2: My Bot's Website (Open Script on Github): https://botdash.netlify.app/ 
-      Discord Server: https://discord.gg/h5xdQva9hK
-      Old Server: https://discord.gg/hqD3XtGWWV
+* World Clock (Open Script on Github): https://clockhms.netlify.app/
+* My Portfolio (Open Script on Github): https://portfolio-akashnil.netlify.app/
+* My Bot's Website (Open Script on Github): https://utilitybot.netlify.app/
+* V2: My Bot's Website (Open Script on Github): https://botdash.netlify.app/ 
+* Discord Server: https://discord.gg/h5xdQva9hK
+* Old Server: https://discord.gg/hqD3XtGWWV
 
 ### 🔗  Useful Links:
- Emojis:  https://getemoji.com/
-:Approved:  Emojis2:  https://emojipedia.org/
-:Approved:  Symbols:  https://coolsymbols.com/
-:Approved:  Cool Avatar Maker:  https://discord-avatar-maker.app/
-:Approved:  Cool Translator: https://deepl.com/
-:Approved:  Discord Active Developer:  https://discord.com/developers/active-developer
-:Approved:  Make Cool Designs:  https://canvas.com/
-:Approved:  Make Time Stamps:  https://hammertime.cyou/
+
+* Emojis:  https://getemoji.com/
+* Emojis2:  https://emojipedia.org/
+* Symbols:  https://coolsymbols.com/
+* Cool Avatar Maker:  https://discord-avatar-maker.app/
+* Cool Translator: https://deepl.com/
+* Discord Active Developer:  https://discord.com/developers/active-developer
+* Make Cool Designs:  https://canvas.com/
+* Make Time Stamps:  https://hammertime.cyou/
 
 
  If you need an easy TimeStamp Maker, then use [this](https://discordtimestamp.com/).
