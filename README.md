@@ -68,15 +68,15 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 
 # 🔗 Links
 
-https://download-site.akashnil.repl.co
-https://download-site-1.akashnil.repl.co
+* https://download-site.akashnil.repl.co
+* https://download-site-1.akashnil.repl.co
 
 > `These are hosted on Replit, because other website hosting makes the project whiter.`
 
 # 🔗 Links (RAW)
 
-https://game-download-website.netlify.app/
-https://game-download-site1.netlify.app/
+* https://game-download-website.netlify.app/
+* https://game-download-site1.netlify.app/
 
 # 🔗 More Links
 
