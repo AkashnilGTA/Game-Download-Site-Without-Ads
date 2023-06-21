@@ -66,19 +66,19 @@ First of all, thanks for visiting my website! It took a long time to create it! 
 > If you consider using this Website, make sure to credit me!
 > Example: `Website created by Akashnil but modified by [modifier/your Name](https://discord.gg/)`
 
-# Links
+# 🔗 Links
 
 https://download-site.akashnil.repl.co
 https://download-site-1.akashnil.repl.co
 
 > `These are hosted on Replit, because other website hosting makes the project whiter.`
 
-# Links (RAW)
+# 🔗 Links (RAW)
 
 https://game-download-website.netlify.app/
 https://game-download-site1.netlify.app/
 
-# Links that might require in the future
+# 🔗 Links that might require in the future
 
 <details>
   <summary>Click to expand</summary>
@@ -102,3 +102,4 @@ https://game-download-site1.netlify.app/
   Make Time Stamps:  https://hammertime.cyou/
 
 If you need an easy TimeStamp Maker, then use [this](https://discordtimestamp.com/).
+</details>
